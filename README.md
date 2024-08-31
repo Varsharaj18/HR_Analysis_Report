@@ -1,1 +1,1 @@
-# HR_Analysis_Report
+Objective: To analyze key HR parameters to uncover actionable insights that support strategic decision-making. The report will focus on workforce demographics, employee performance, retention, and engagement metrics. An interactive dashboard will be developed, showcasing visualizations that enable stakeholders to identify trends, assess organizational health, and make informed decisions to optimize human resource management.
